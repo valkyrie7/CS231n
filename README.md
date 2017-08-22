@@ -18,11 +18,11 @@ Happy learning!
 ## Course Syllabus
 
 - [ ] **Lecture 1:** Intro to computer vision, historical context
-   - [ ] [Video](https://youtu.be/NfnWJUyUJYU)
+   - [x] [Video](https://youtu.be/NfnWJUyUJYU)
    - [ ] [Slides](slides/lecture1.pdf)
 - [ ] **Lecture 2:** Image classification and the data-driven
       approach; k-nearest neighbors; Linear classification I
-   - [ ] [Video](https://youtu.be/8inugqHkfvE)
+   - [x] [Video](https://youtu.be/8inugqHkfvE)
    - [ ] [Slides](slides/lecture2.pdf)
    - [ ] [Python/NumPy tutorial](notes/python-numpy-tutorial.pdf)
    - [ ] [Image classification notes](notes/image-classification.pdf)
@@ -30,12 +30,12 @@ Happy learning!
 - [ ] **Lecture 3:** Linear classification II; Higher-level
       representations, image features; Optimization, stochastic
       gradient descent
-   - [ ] [Video](https://youtu.be/qlLChbHhbg4)
+   - [x] [Video](https://youtu.be/qlLChbHhbg4)
    - [ ] [Slides](slides/lecture3.pdf)
    - [ ] [Linear classification notes](notes/linear-classification.pdf)
    - [ ] [Optimization notes](notes/optimization.pdf)
 - [ ] **Lecture 4:** Backpropagation; Introduction to neural networks
-   - [ ] [Video](https://youtu.be/i94OvYb6noo)
+   - [x] [Video](https://youtu.be/i94OvYb6noo)
    - [ ] [Slides](slides/lecture4.pdf)
    - [ ] [Backprop notes](notes/backprop.pdf)
    - [ ] Related references
@@ -55,7 +55,7 @@ Happy learning!
       functions, weight initialization, gradient flow, batch
       normalization; Babysitting the learning process, hyperparameter
       optimization
-   - [ ] [Video](https://youtu.be/gYpoJMlgyXA)
+   - [x] [Video](https://youtu.be/gYpoJMlgyXA)
    - [ ] [Slides](slides/lecture5.pdf)
    - [ ] [Neural Nets notes 1](notes/neural-nets-1.pdf)
    - [ ] [Neural Nets notes 2](notes/neural-nets-2.pdf)
